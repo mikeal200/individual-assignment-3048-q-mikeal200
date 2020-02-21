@@ -9,6 +9,7 @@ import android.view.ViewGroup
 import android.widget.ArrayAdapter
 import androidx.lifecycle.Observer
 import app.plantdiary.individualassignment3048q.R
+import app.plantdiary.individualassignment3048q.dto.Country
 import kotlinx.android.synthetic.main.main_fragment.*
 
 class MainFragment : Fragment() {
