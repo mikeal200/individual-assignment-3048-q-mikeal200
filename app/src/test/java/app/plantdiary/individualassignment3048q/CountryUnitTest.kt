@@ -73,5 +73,6 @@ class CountryUnitTest {
                 }
             }
             assertTrue(containsBelize)
-        }    }
+        }
+    }
 }
